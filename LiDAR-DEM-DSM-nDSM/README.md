@@ -1,13 +1,15 @@
 # LiDAR-DEM-DSM-nDSM
 Digital Elevation Model, Digital Surface Model, and normalized Digital Surface Model generated from a LiDAR point cloud.
 
+## [Final Map PDF](https://github.com/samrknight12/GIS/blob/master/LiDAR-DEM-DSM-nDSM/MapofGibsons.pdf)
+
 ## Data
 ### Source
 The point cloud used for this project was aquired from LidarBC - Open Lidar Data Portal. This can be found at: https://governmentofbc.maps.arcgis.com/apps/MapSeries/index.html?appid=d06b37979b0c4709b7fcf2a1ed458e03
 The represented area is Southern Lower Gibsons BC Canada.
 
 ### Spatial Reference
-![img](/img1/ele1.PNG) ![img](/img1/ele2.PNG) ![img](/img1/ele3.PNG)
+![img](LiDAR-DEM-DSM-nDSM/img1/ele1.PNG) ![img](LiDAR-DEM-DSM-nDSM/img1/ele2.PNG) ![img](LiDAR-DEM-DSM-nDSM/img1/ele3.PNG)
 
 ### Data Specifics
 Number of data points: 49,012,056
@@ -37,13 +39,13 @@ To create the normalized digital surface model, I utilized the raster functions 
 
 ## Results
 ### DEM
-![img](/img1/ele4.PNG)
+![img](LiDAR-DEM-DSM-nDSM/img1/ele4.PNG)
 
 ### DSM
-![img](/img1/ele5.PNG)
+![img](LiDAR-DEM-DSM-nDSM/img1/ele5.PNG)
 
 ### nDSM
-![img](/img1/ele6.PNG)
+![img](LiDAR-DEM-DSM-nDSM/img1/ele6.PNG)
 
 
-### Note: A full pdf map of the 3 models is in the repo files.
+
