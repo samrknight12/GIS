@@ -9,7 +9,7 @@ The point cloud used for this project was aquired from LidarBC - Open Lidar Data
 The represented area is Southern Lower Gibsons BC Canada.
 
 ### Spatial Reference
-![img](LiDAR-DEM-DSM-nDSM/img1/ele1.PNG) ![img](LiDAR-DEM-DSM-nDSM/img1/ele2.PNG) ![img](LiDAR-DEM-DSM-nDSM/img1/ele3.PNG)
+![img](img1/ele1.PNG) ![img](img1/ele2.PNG) ![img](img1/ele3.PNG)
 
 ### Data Specifics
 Number of data points: 49,012,056
@@ -39,13 +39,13 @@ To create the normalized digital surface model, I utilized the raster functions 
 
 ## Results
 ### DEM
-![img](LiDAR-DEM-DSM-nDSM/img1/ele4.PNG)
+![img](img1/ele4.PNG)
 
 ### DSM
-![img](LiDAR-DEM-DSM-nDSM/img1/ele5.PNG)
+![img](img1/ele5.PNG)
 
 ### nDSM
-![img](LiDAR-DEM-DSM-nDSM/img1/ele6.PNG)
+![img](img1/ele6.PNG)
 
 
 
