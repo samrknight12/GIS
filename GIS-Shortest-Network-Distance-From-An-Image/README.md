@@ -2,7 +2,7 @@
 Using ArcGIS Pro and a satellite image of Nose Hill Park Calgary Alberta the shortest network distance between path locations is found.
 
 ### Create Network Dataset
-![Network Dataset](GIS/GIS-Shortest-Network-Distance-From-An-Image/images/Net1.PNG)
+![Network Dataset](/images/Net1.PNG)
 
 
 ### Correct Units to Meters
